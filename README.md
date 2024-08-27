@@ -3,7 +3,7 @@ This repository contains the code to conduct NLP-based topic modeling, annotatio
 
 ## Data
 
-Access to the NVDRS Restricted Access Database requires approval from the NVDRS RAD review committee, consisting of scientific and data analysis experts within CDC's National Center for Injury Prevention and Control. More information on application procedures can be fuound here: 
+Access to the NVDRS Restricted Access Database requires approval from the NVDRS RAD review committee, consisting of scientific and data analysis experts within CDC's National Center for Injury Prevention and Control. More information on application procedures can be found here: 
 https://www.cdc.gov/nvdrs/about/nvdrs-data-access.html
 
 ## Code
